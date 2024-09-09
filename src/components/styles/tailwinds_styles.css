@@ -1,0 +1,16 @@
+@import 'tailwindcss/base';
+
+.header {
+  @apply text-2xl font-bold w-full;
+}
+
+.nav {
+  @apply flex w-full justify-around;
+}
+
+.menu {
+  @apply flex justify-evenly w-96;
+}
+
+
+
